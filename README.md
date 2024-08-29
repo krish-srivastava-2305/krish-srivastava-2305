@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Krish Srivastava</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Full-Stack developer from India</h3>
 
-- 🔭 I’m currently working on **DonateNow**
+- 🔭 I’m currently working on **Notify-Me**
 
-- 🌱 I’m currently learning **NextJS**
+- 🌱 I’m currently learning **Kafka**
 
 - 🤝 I’m looking for help with **Socket.io, webRTC**
 
