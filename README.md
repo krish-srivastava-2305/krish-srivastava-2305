@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Krish Srivastava</h1>
 <h3 align="center">A passionate Full-Stack developer from India</h3>
 
-- 🔭 I’m currently working on **Notify-Me**
+- 🔭 I’m currently learning about **micro-services and EDA**
 
-- 🌱 I’m currently learning **Kafka**
+- 🌱 I’m currently learning **Micro-Services and Agile Methods**
 
 - 🤝 I’m looking for help with **Socket.io, webRTC**
 
